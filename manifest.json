@@ -1,14 +1,14 @@
 {
   "name": "My New Hugo Site",
   "short_name": "My New Hugo Site",
-  "start_url": "/docs-starter/",
-  "scope": "/docs-starter/",
+  "start_url": "/hugo-starter/",
+  "scope": "/hugo-starter/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/docs-starter/favicon.svg",
+      "src": "/hugo-starter/favicon.svg",
       "sizes": "512x512"
     }
   ]
